@@ -1,0 +1,1 @@
+# SuiteCRM-mandate-model-module
